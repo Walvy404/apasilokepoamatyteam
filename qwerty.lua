@@ -215,7 +215,7 @@ frame.AnchorPoint = Vector2.new(0.5, 0.5)
 Instance.new("UICorner", frame).CornerRadius = UDim.new(0, 10)
 
 local title = Instance.new("TextLabel", frame)
-title.Text = "Walvy Comunity"
+title.Text = "Walvy Community"
 title.Size = UDim2.new(1, 0, 0, 20)
 title.BackgroundTransparency = 1
 title.TextColor3 = Color3.fromRGB(255, 255, 255)
